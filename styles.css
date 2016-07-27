@@ -1,0 +1,181 @@
+body {
+	margin:0;
+	padding:0;	
+	color: #555555;
+	font-size: 11pt;
+	font-family:Arial, Verdana, Helvetica, sans-serif;
+	text-align: justify;	
+	background-image:url(img/bg-site.jpg);
+	background-position:top;
+	background-repeat:repeat-x;	
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #212869;	
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 30px;	
+}
+
+.style1 {
+	font-family: "Tahoma";
+	font-size: 12px;
+	font-weight: normal;
+	color: #0b113f;
+	padding: 0 30px 0 30px; 
+}
+
+.resalte {
+	font-weight: bold;
+	color: #212869;
+	
+}
+
+.resalte-2 {
+	color: #fff;
+	background-color: #212869;
+	background-image:url(img/doc.jpg);
+	background-repeat:no-repeat;
+	background-position:right, bottom;
+	line-height: 35px;
+	padding-left: 10px;
+	font-size:16px;
+	
+}
+
+.vermasTD {
+    border-top: 1px dotted #999; 
+	text-align: right;
+	line-height:55px;
+	color: #555555;
+}
+
+a.vermas, a.vermas:link, a.vermas:visited {
+    color: #555555;
+	text-decoration: underline;
+	font-size: 11px;
+}
+a.vermas:active, a.vermas:hover, a.vermas:focus {
+    color: #212869;
+	text-decoration: none;
+	font-size: 11px;
+	
+	}
+	
+a.servi, a.servi:link, a.servi:visited {
+    color: #555555;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 25px;
+}
+a.servi:active, a.servi:hover, a.servi:focus {
+    color: #212869;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 25px;	
+	padding-left:5px;
+	
+	}	
+	
+a.mail, a.mail:link, a.mail:visited {
+    color: #212869;	
+	text-decoration: none;
+	font-weight:bold;
+	
+}
+a.mail:active, a.mail:hover, a.mail:focus {
+    color: #212869;
+	text-decoration: none;
+	font-weight:bold;
+	
+	
+	}
+	
+a.mailint, a.mailint:link, a.mailint:visited {
+    color: #212869;	
+	text-decoration: none;
+	
+}
+a.mailint:active, a.mailint:hover, a.mailint:focus {
+    color: #212869;
+	text-decoration: none;
+	
+	
+	}
+
+A.menu, A.menu:LINK, A.menu:VISITED {
+	color : #555555;
+	font-family : Tahoma;
+	font-size : 14px;	
+	text-decoration : none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+
+A.menu:ACTIVE, A.menu:HOVER, A.menu:FOCUS {
+	color : #fff;
+	font-family : Tahoma;
+	font-size : 14px;
+	text-decoration: none;
+	background-color: #212869;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: block;
+	border-bottom: 3px solid #616bc5;
+	
+}
+
+A.menuINF, A.menuINF:LINK, A.menuINF:VISITED {
+	color : #555555;
+	font-family : Tahoma;
+	font-size : 12px;	
+	text-decoration : underline;
+}
+
+A.menuINF:ACTIVE, A.menuINF:HOVER, A.menuINF:FOCUS {
+	color : #212869;
+	font-family : Tahoma;
+	font-size : 12px;
+	text-decoration : none;	
+}
+
+A.news, A.news:LINK, A.news:VISITED {
+	color : #555555;
+	font-family : Tahoma;
+	font-size : 12px;	
+	text-decoration : none;
+}
+
+A.news:ACTIVE, A.news:HOVER, A.news:FOCUS {
+	color : #212869;
+	font-family : Tahoma;
+	font-size : 12px;
+	text-decoration : none;	
+}
+
+.nota { background-color: #d0000e;
+color: white;
+font-size:11px;
+font-family: "tahoma";
+text-align:center;
+padding: 5px 5px 5px 5px;
+
+}
+
+.visitas { background-color: #212869;
+color: white;
+font-size:12px;
+font-family: "tahoma";
+text-align:center;
+padding: 5px 5px 5px 5px;
+
+}
+
+.copy  {    
+	background-image:url(img/bg-copy.jpg);
+	color: #fff;
+	font-family: "Tahoma";
+	text-align: center;
+	font-size:13px;
+	
+}
